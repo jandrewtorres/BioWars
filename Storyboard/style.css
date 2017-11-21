@@ -1,0 +1,20 @@
+      .background-color {
+        background: red; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(right,rgba(255,0,0,0.1),rgba(255,0,0,1)); /*Safari 5.1-6*/
+        background: -o-linear-gradient(left,rgba(255,0,0,0.1),rgba(255,0,0,1)); /*Opera 11.1-12*/
+        background: -moz-linear-gradient(left,rgba(255,0,0,0.1),rgba(255,0,0,1)); /*Fx 3.6-15*/
+        background: linear-gradient(to left, rgba(255,0,0,0.1), rgba(255,0,0,1)); /*Standard*/
+        height: 100vh;
+      }
+      .top-bar{
+        font-size: 10vh;
+        margin: -1vh 3vw  -4vh 1vw ;
+        z-index: 2;
+      }
+      a{
+        text-decoration: none;
+        color: black;
+      }
+      a:hover{
+        font-weight: bolder;
+      }
