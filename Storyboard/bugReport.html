@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BioWars</title>
+    <link href="style.css" rel="stylesheet">
+    <style type="text/css">
+    div{
+        margin-top: 2vh;
+        font-size: 3vh;
+        margin-left: 2vw;
+    }
+    #location > select{
+        font-size: 3vh;
+        border: 1px solid black;
+        border-radius: 25px;
+    }
+    textarea{
+        border: 1px solid black;
+        font-size: 2vh;
+        width: 90vw;
+        height: 24vh;
+    }
+    a{
+        border: 2px solid black;
+        border-radius: 25px;
+        padding:10px;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <div style="margin-top: 5vh; font-size: 6vh; text-align:center;">Report a Bug</div>
+        <div id="location">
+            Location of Bug:&nbsp;&nbsp;&nbsp;
+            <select name="location">
+                <option value="menu">Start Menu</option>
+                <option value="market">Marketplace</option>
+                <option value="lobby">Lobby</option>
+                <option value="leaderboard">Leaderboard</option>
+                <option value="game">Gameplay</option>
+            </select>
+        </div>
+        <div id="description">
+        Description of Bug: <br/>
+        <textarea id = "myDesc" >Your text here
+            </textarea>
+        </div>
+        <div id="replicate">
+            Steps to Replicate Bug: <br/>
+            <textarea id = "myRep" >Your text here
+            </textarea>
+        </div>
+        <br/>
+        <div style="text-align:center;">
+        <a href="menu.html">Cancel</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="menu.html">Submit</a>
+        </div>
+    </div>
+
+</body>
+</html>
