@@ -19,45 +19,42 @@
 	  background-color: gray;
 	  font-size: 4vh;
         }
+  .dashboard {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  }
+  .dashboard-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .dashboard-title {
+    font-size: 3em;
+  }
+  .number {
+    font-size: 2em;
+    background-color: grey;
+  }
+  
     </style>
 </head>
 <body>
   <div>
     <div class="background-color">
       <div class="top-bar" style="text-align:left;"><a href="menu.html">&#8617;</a></div>
-      <table style="width:90vw; border-collapse:separate; border-spacing: 1vw 0;">
-        <tr><td>Leaderboard</td><td>My Stats</td></tr>
-        <tr>
-          <td>
-            <table class="displayTable">
-              <tr><td>No. 1</td></tr>
-              <tr><td>No. 2</td></tr>
-              <tr><td>No. 3</td></tr>
-              <tr><td>No. 4</td></tr>
-              <tr><td>No. 5</td></tr>
-              <tr><td>No. 6</td></tr>
-              <tr><td>No. 7</td></tr>
-              <tr><td>No. 8</td></tr>
-              <tr><td>No. 9</td></tr>
-              <tr><td>No. 10</td></tr>
-            </table>
-          </td>
-          <td>
-            <table class="displayTable">
-              <tr><td>No. 1</td></tr>
-              <tr><td>No. 2</td></tr>
-              <tr><td>No. 3</td></tr>
-              <tr><td>No. 4</td></tr>
-              <tr><td>No. 5</td></tr>
-              <tr><td>No. 6</td></tr>
-              <tr><td>No. 7</td></tr>
-              <tr><td>No. 8</td></tr>
-              <tr><td>No. 9</td></tr>
-              <tr><td>No. 10</td></tr>
-            </table>
-          </td>
-        </tr>
-      </table>
+      <div class="dashboard">
+          <div class="dashboard-panel">
+            <span class="dashboard-title">Leaderboard</span>
+            <span class="number">No 1</span>
+            <span class="number">No 2</span>
+          </div>
+          <div class="dashboard-panel">
+            <span class="dashboard-title">My Stats</span>
+            <span class="number">No 1</span>
+            <span class="number">No 2</span>
+          </div>
+      </div>
     </div>
   </div>
 </body>
