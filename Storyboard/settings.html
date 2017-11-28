@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BioWars</title>
+  <link href="style.css" rel="stylesheet">
+  <style type="text/css">
+    .sliders{
+      width: 100%;
+    }
+    .bars {
+      height: 2vh;
+      -webkit-appearance: none;
+      width: 100%;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+    }
+    .bars::-webkit-slider-thumb{
+      -webkit-appearance: none;
+      appearance: none;
+      background: #4CAF50;
+      cursor: pointer;
+      height: 10vh;
+      width: 3vw;
+    }
+    .bars::-moz-range-thumb{
+      height: 10vh;
+      width: 3vw;
+    }
+    p{
+      font-size: 6vh;
+      text-align: center;
+      margin: 10vh 0 10vh 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="background-color">
+    <div class="top-bar" style="text-align:left;"><a href="menu.html">&#8617;</a></div>
+    <div class="sliders">
+      <p>Volume:</p>
+      <input type="range" min="1" max="100" value="50" class="bars">
+      <p>SFX:</p>
+      <input type="range" min="1" max="100" value="50" class="bars">
+    </div>
+  </div>
+</body>
+</html>
