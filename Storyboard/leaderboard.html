@@ -30,13 +30,19 @@
     flex-direction: column;
   }
   .dashboard-title {
-    font-size: 3em;
+    text-align: center;
+    font-size: 7vh;
   }
   .number {
-    font-size: 2em;
+    font-size: 5vh;
     background-color: grey;
+    margin-bottom: 1vh;
   }
-  
+  @media screen and (max-width: 500px) and (min-width: 300px){
+    .dashboard{
+      flex-direction: column;
+    }
+  }
     </style>
 </head>
 <body>
@@ -48,6 +54,14 @@
             <span class="dashboard-title">Leaderboard</span>
             <span class="number">No 1</span>
             <span class="number">No 2</span>
+            <span class="number">No 3</span>
+            <span class="number">No 4</span>
+            <span class="number">No 5</span>
+            <span class="number">No 6</span>
+            <span class="number">No 7</span>
+            <span class="number">No 8</span>
+            <span class="number">No 9</span>
+            <span class="number">No 10</span>
           </div>
           <div class="dashboard-panel">
             <span class="dashboard-title">My Stats</span>
