@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>BioWars</title>
+    <link href="style.css" rel="stylesheet">
+    <style type="text/css">
+      label{
+        font-size: 4vw;
+      }
+      #chat{
+        border: 1px solid black;
+        background-color: #FFFFFF;
+      }
+      #current{
+        border: 1px solid black;
+      }
+      span{
+        font-size:2vw;
+      }
+      #players{
+        background-color: #ffffff;
+        text-align:center;
+        font-size:5vh;
+        height:70vh;
+        border: 1px solid black;
+        margin-top: 3vh;
+      }
+      #players ul{
+        margin: 0 2vw 0 2vw;
+        padding:0;
+      }
+      #players ul li {
+        background-color: gray;
+        margin: 2vh 0 2vh 0;;
+      }
+    </style>
+</head>
+<body>
+  <div style="background-color: #778899; height: 100vh; width: 100vw;">
+    <div style="font-size:7vh; text-align: center; padding-top: 2vh;">Match Lobby</div>
+
+      <div style="float:left; width: 45vw; margin-left: 3vw;">
+        <div style="text-align:center; font-size:4vh;">Choose Match Type</div>
+          <div style="text-align:center;margin: 6vh 0 8vh 0;">
+            <label>
+              <input type="radio" name="options" id="unranked" checked="checked"> Unranked
+            </label>
+            <label>
+              <input type="radio" name="options" id="ranked" >Ranked
+            </label>
+            <br/>
+            <br/>
+            <button style="font-size:6vh;">Find Match</button>
+            </div>
+            <div id="chat">
+              <div id="prevChat">
+                <span>Christina's Mom: I'm ready to play</span><br/><br/>
+                <span>Christina: ME TOO!!! IM SOOO SUPER EXCITED</span><br/><br/>
+                <span>John Torres: Mom, make me a sandwich</span><br/><br/>
+                <span>John's Mom : no</span><br/><br/>
+              </div>
+              <div id="current" >
+                <span>Message: Love you mom</span> <span style="float:right;border:1px solid black;background-color:green;">Send</span>
+              </div>
+            </div>
+          </div>
+      <div style="float:right; width:45vw; margin-right:3vw;">
+        <div style="text-align:center;font-size:4vh;">Match Status: <span><a href="game.html">Match Starting...</a></span></div>
+        <div id="players">
+          <ul>
+            <li>John Torres</li>
+            <li>Christina Walden</li>
+            <li>Christina's Mom</li>
+            <li>John's Mom</li>
+          </ul>
+        </div>
+      </div>
+    <a href="menu.html">EXIT</a>
+  </div>
+</body>
+</html>
