@@ -1,0 +1,459 @@
+﻿<mockup version="4.9" minAllowVersion="4.9" ID="80AF24D1-3ED5-E711-9E7D-784F439CD053" platform="MtWeb" defaultW="1100" defaultH="800" measureW="1100" measureH="800" mobileScreenScale="0">
+  <controls controlCount="69">
+    <control controlID="108397AA-34D0-E711-BD88-784F439CD053" controlTypeID="Shape" x="0" y="0" w="1100" h="59" zOrder="0">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2616BAB3-19D5-E711-9E7D-784F439CD053" controlTypeID="Image" x="10" y="6" w="49" h="49" zOrder="1">
+      <URL>49D3C5BCB9CA4ADC9722998339A0C7FB.png</URL>
+    </control>
+    <control controlID="F2A8333E-1BD5-E711-9E7D-784F439CD053" controlTypeID="Image" x="183" y="59" w="918" h="589" zOrder="2">
+      <URL>FA0E20249BB4D6036417E2E9FC5B6469.png</URL>
+    </control>
+    <control controlID="50D08AC1-5BD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="59" w="183" h="741" zOrder="3">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="20BCBCE2-5BD5-E711-9E7D-784F439CD053" controlTypeID="Circle" x="464" y="449" w="33" h="33" zOrder="4">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="E8CEE6F1-5BD5-E711-9E7D-784F439CD053" controlTypeID="Circle" x="361" y="278" w="33" h="33" zOrder="5">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="4032DEF3-5BD5-E711-9E7D-784F439CD053" controlTypeID="Circle" x="803" y="245" w="33" h="33" zOrder="6">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="48D8B0F5-5BD5-E711-9E7D-784F439CD053" controlTypeID="Circle" x="647" y="375" w="33" h="33" zOrder="7">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="7A7CC82F-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="183" y="637" w="917" h="163" zOrder="8">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B0DD8F08-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="183" y="674" w="917" h="126" zOrder="9">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D498826D-5CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="193" y="647" w="30" h="17" zOrder="10">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Log</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4A787C78-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="223" y="153" w="150" h="115" zOrder="11">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3C3B6D87-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="510" y="250" w="150" h="115" zOrder="12">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6021F789-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="846" y="256" w="150" h="115" zOrder="13">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="18AA138C-5CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="457" y="492" w="150" h="115" zOrder="14">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="20ED1D96-5CD5-E711-9E7D-784F439CD053" controlTypeID="Line" x="371" y="266" w="13" h="28" zOrder="15">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(7,14)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(13,28)</endPoint>
+    </control>
+    <control controlID="A4BAC19B-5CD5-E711-9E7D-784F439CD053" controlTypeID="Line" x="461" y="462" w="25" h="32" zOrder="16">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(12,16)</controlPoint>
+      <startPoint>(0,32)</startPoint>
+      <endPoint>(25,0)</endPoint>
+    </control>
+    <control controlID="B23442A2-5CD5-E711-9E7D-784F439CD053" controlTypeID="Line" x="659" y="365" w="2" h="27" zOrder="17">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(1,14)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(1,27)</endPoint>
+    </control>
+    <control controlID="60451AA7-5CD5-E711-9E7D-784F439CD053" controlTypeID="Line" x="824" y="256" w="26" h="1" zOrder="18">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(14,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(26,0)</endPoint>
+    </control>
+    <control controlID="B8FC6ECF-5CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="199" y="681" w="254" h="17" zOrder="19">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>12%3A06%3A30+Mickey+Mouse+took+the+lead.</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2CD5FFF1-5CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="199" y="735" w="254" h="17" zOrder="20">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>12%3A08%3A09+Mickey+Mouse+took+the+lead.</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0CFFEFE3-5CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="199" y="708" w="279" h="17" zOrder="21">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>12%3A07%3A10++Hilary+Clinton+has+been+infected.</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D6D5FFF1-5CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="199" y="762" w="276" h="17" zOrder="22">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>12%3A08%3A12+Hilary+Clinton+has+been+infected.</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="48AE7A22-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="233" y="162" w="54" h="17" zOrder="23">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Obama</text>
+      <lineSpacing>17</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1A7AA4EE-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="520" y="259" w="68" h="17" zOrder="24">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>D.+Trump</text>
+      <lineSpacing>17</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="567816F2-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="856" y="267" w="47" h="17" zOrder="25">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Hilary</text>
+      <lineSpacing>17</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A29ED8F4-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="467" y="504" w="87" h="17" zOrder="26">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Pocahontas</text>
+      <lineSpacing>17</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C85F723A-5DD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="59" w="183" h="455" zOrder="27">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="141E0156-5DD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="514" w="183" h="39" zOrder="28">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9EBEE447-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="524" w="78" h="17" zOrder="29">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Game+Chat</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E432086F-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="563" w="117" h="17" zOrder="30">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Mickey%3A+Oh+yeah!</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6633086F-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="617" w="118" h="17" zOrder="31">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Trump%3A+Wall+built!</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CA33086F-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="590" w="122" h="17" zOrder="32">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Hilary%3A+Yeah+baby!</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2434086F-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="644" w="131" h="17" zOrder="33">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Daffy+Duck%3A+Quack!</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="54A7F592-5DD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="59" w="183" h="39" zOrder="34">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D6A7F592-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="69" w="66" h="17" zOrder="35">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Inventory</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3039D4A0-5DD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="98" w="183" h="374" zOrder="36">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E83929B1-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="104" w="75" h="24" zOrder="37">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Boosts%3A</text>
+      <textSize>20</textSize>
+      <lineSpacing>23</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="088F785E-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="10" y="216" w="79" h="24" zOrder="38">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Viruses%3A</text>
+      <textSize>20</textSize>
+      <lineSpacing>23</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="164308C1-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="10" y="328" w="94" h="24" zOrder="39">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Vaccines%3A</text>
+      <textSize>20</textSize>
+      <lineSpacing>23</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9E8E5ACA-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="135" w="75" h="17" zOrder="40">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Gold%3A+Lvl+4</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C2CD70D8-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="162" w="131" h="17" zOrder="41">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Reproduction%3A+Lvl+4</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="48E100EB-5DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="189" w="104" h="17" zOrder="42">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Research%3A+Lvl+0</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="10CC1770-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="10" y="250" w="34" h="34" zOrder="43">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AC4308C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="10" y="362" w="34" h="34" zOrder="44">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C16A2A8-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="10" y="284" w="34" h="34" zOrder="45">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="244408C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="10" y="396" w="34" h="34" zOrder="46">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C0BBCBA3-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="78" y="250" w="34" h="34" zOrder="47">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="924408C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="78" y="362" w="34" h="34" zOrder="48">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BC16A2A8-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="78" y="284" w="34" h="34" zOrder="49">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="144508C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="78" y="396" w="34" h="34" zOrder="50">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="486FA278-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="44" y="250" w="34" h="34" zOrder="51">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8C4508C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="44" y="362" w="34" h="34" zOrder="52">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3E17A2A8-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="44" y="284" w="34" h="34" zOrder="53">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="044608C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="44" y="396" w="34" h="34" zOrder="54">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="56BCCBA3-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="112" y="250" w="34" h="34" zOrder="55">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7C4608C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="112" y="362" w="34" h="34" zOrder="56">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B617A2A8-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="112" y="284" w="34" h="34" zOrder="57">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F44608C1-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="112" y="396" w="34" h="34" zOrder="58">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="88D7AECD-18D6-E711-975D-784F439CD053" controlTypeID="Shape" x="0" y="462" w="183" h="52" zOrder="59">
+      <color>4278229503</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C9D3CDC-18D6-E711-975D-784F439CD053" controlTypeID="Label" x="54" y="474" w="64" h="29" zOrder="60">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Store</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CC062A0C-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="233" y="195" w="128" h="17" zOrder="61">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Population%3A+10%2C000</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="64642138-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="520" y="295" w="128" h="17" zOrder="62">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Population%3A+10%2C000</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2209253B-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="856" y="299" w="128" h="17" zOrder="63">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Population%3A+10%2C000</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A88A983D-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="469" y="536" w="128" h="17" zOrder="64">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Population%3A+10%2C000</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9E2DA628-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="233" y="222" w="70" h="17" zOrder="65">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Viruses%3A+2</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA642138-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="520" y="322" w="70" h="17" zOrder="66">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Viruses%3A+2</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B809253B-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="856" y="326" w="70" h="17" zOrder="67">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Viruses%3A+2</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="488B983D-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="469" y="563" w="70" h="17" zOrder="68">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Viruses%3A+2</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

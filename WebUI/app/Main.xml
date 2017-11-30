@@ -1,0 +1,120 @@
+﻿<project version="2.9" name="Project" ID="E6337A28-34D0-E711-BD88-784F439CD053">
+  <params>
+    <pageParam version="4.9" minAllowVersion="4.9"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,800)" backgroundColor="4294111986" fontSize="14" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="84367A28-34D0-E711-BD88-784F439CD053" expanded="True" code="GfNKAZCCvg" thumbCode="GfNKAZCCvg" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Login" ID="1A3348C0-1DD5-E711-9E7D-784F439CD053" expanded="True" code="XTHNbOPHZW" thumbCode="XTHNbOPHZW" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Signup" ID="B01E8DAA-1CD5-E711-9E7D-784F439CD053" expanded="False" code="h2RYjQ37Z3" thumbCode="h2RYjQ37Z3" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="User_Home" ID="6209B228-1ED5-E711-9E7D-784F439CD053" expanded="True" code="oiQcIMwWN5" thumbCode="oiQcIMwWN5" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="LeaderBoard" ID="B8D3F4D8-23D5-E711-9E7D-784F439CD053" expanded="False" code="LsSCnFn5te" thumbCode="LsSCnFn5te" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Settings" ID="0434AF61-34D5-E711-9E7D-784F439CD053" expanded="True" code="opDLbFYn1Z" thumbCode="opDLbFYn1Z" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="My Stats" ID="6EEFC316-36D5-E711-9E7D-784F439CD053" expanded="True" code="IQoypVPJuv" thumbCode="UYUpIUajEZ" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="MatchLobby" ID="26DF37E1-3BD5-E711-9E7D-784F439CD053" expanded="True" code="yPf21cJAaH" thumbCode="yPf21cJAaH" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="MatchLobby_Message" ID="C448852A-24D6-E711-975D-784F439CD053" expanded="True" code="8tXginfv9Y" thumbCode="8tXginfv9Y" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="MatchLobby_FindMatch" ID="18500F0E-3ED5-E711-9E7D-784F439CD053" expanded="True" code="v6C4P2LoWM" thumbCode="v6C4P2LoWM" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="MatchLobby_GameStart" ID="1CBDDA6D-3DD5-E711-9E7D-784F439CD053" expanded="True" code="XfOwki78XK" thumbCode="XfOwki78XK" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="GamePlay" ID="80AF24D1-3ED5-E711-9E7D-784F439CD053" expanded="True" code="fnhAsF8IyD" thumbCode="fnhAsF8IyD" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Store" ID="F8C859DE-19D6-E711-975D-784F439CD053" expanded="True" code="XU9Y7gulXw" thumbCode="XU9Y7gulXw" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="528F1621-1ED5-E711-9E7D-784F439CD053" expanded="False" code="7FNqJjQmWt" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="My Stats" ID="CA8C7BE1-23D5-E711-9E7D-784F439CD053" expanded="False" code="NMXUfsgKmM" thumbCode="dMeaN9xfA6" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Settings" ID="4099A7E7-23D5-E711-9E7D-784F439CD053" expanded="True" code="BREk3C9PoO" thumbCode="5NmfVVgEDk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+      </images>
+    </page>
+    <page name="Report_Bug" ID="9008E6C7-3BD5-E711-9E7D-784F439CD053" expanded="False" code="kv7LDQtatG" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+    <page name="Store" ID="DAA32DA3-19D6-E711-975D-784F439CD053" expanded="False" code="TMcjUKssu6" thumbCode="tOlmQz8uy5" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+        <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="49D3C5BCB9CA4ADC9722998339A0C7FB.png"/>
+    <image key="FA0E20249BB4D6036417E2E9FC5B6469.png"/>
+  </images>
+</project>

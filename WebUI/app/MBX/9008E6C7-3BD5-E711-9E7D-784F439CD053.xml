@@ -1,0 +1,121 @@
+﻿<mockup version="4.9" minAllowVersion="4.9" ID="84367A28-34D0-E711-BD88-784F439CD053" platform="MtWeb" defaultW="1100" defaultH="800" measureW="1100" measureH="800" mobileScreenScale="0">
+  <controls controlCount="14">
+    <control controlID="AE712C09-1ED5-E711-9E7D-784F439CD053" controlTypeID="Image" x="0" y="87" w="1100" h="705" zOrder="0">
+      <URL>FA0E20249BB4D6036417E2E9FC5B6469.png</URL>
+    </control>
+    <control controlID="108397AA-34D0-E711-BD88-784F439CD053" controlTypeID="Shape" x="0" y="0" w="1100" h="59" zOrder="1">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2616BAB3-19D5-E711-9E7D-784F439CD053" controlTypeID="Image" x="10" y="6" w="49" h="49" zOrder="2">
+      <URL>49D3C5BCB9CA4ADC9722998339A0C7FB.png</URL>
+    </control>
+    <control controlID="76E6FF01-1AD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="75" y="11" w="126" h="38" zOrder="3">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>BioWars</text>
+      <textColor>4294967295</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>38</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9E555678-1AD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="949" y="18" w="51" h="21" zOrder="4">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Login</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>21</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ECB4A37D-1AD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="1019" y="18" w="71" h="21" zOrder="5">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>21</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C603D63D-3BD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="59" w="1100" h="47" zOrder="6">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AEDC4F55-1BD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="348" y="64" w="403" h="29" zOrder="7">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Free%2C+multiplayer%2C+plague-style+game.</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0817AF19-3BD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="331" w="1100" h="164" zOrder="8">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6CF93B32-3BD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="0" y="753" w="1100" h="47" zOrder="9">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9EED05B7-1BD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="10" y="347" w="1081" h="38" zOrder="10">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Play+now+on+the+web+or+on+your+mobile+device!+No+downloads+required!</text>
+      <textColor>4294967295</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>38</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="22575416-1CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="302" y="764" w="495" h="24" zOrder="11">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Can+you+infect+the+world+and+be+the+last+one+standing%3F</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>23</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BE8DFD53-1CD5-E711-9E7D-784F439CD053" controlTypeID="Button" x="393" y="410" w="152" h="58" zOrder="12">
+      <color>4278229503</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Login</text>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="6AD81171-1CD5-E711-9E7D-784F439CD053" controlTypeID="Button" x="555" y="410" w="152" h="58" zOrder="13">
+      <color>4278229503</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

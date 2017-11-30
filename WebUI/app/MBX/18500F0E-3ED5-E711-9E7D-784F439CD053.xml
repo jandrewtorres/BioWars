@@ -1,0 +1,130 @@
+﻿<mockup version="4.9" minAllowVersion="4.9" ID="18500F0E-3ED5-E711-9E7D-784F439CD053" platform="MtWeb" defaultW="1100" defaultH="800" measureW="1100" measureH="800" mobileScreenScale="0">
+  <controls controlCount="17">
+    <control controlID="108397AA-34D0-E711-BD88-784F439CD053" controlTypeID="Shape" x="0" y="0" w="1100" h="59" zOrder="0">
+      <color>4278190080</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2616BAB3-19D5-E711-9E7D-784F439CD053" controlTypeID="Image" x="10" y="6" w="49" h="49" zOrder="1">
+      <URL>49D3C5BCB9CA4ADC9722998339A0C7FB.png</URL>
+    </control>
+    <control controlID="76E6FF01-1AD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="75" y="11" w="126" h="38" zOrder="2">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>BioWars</text>
+      <textColor>4294967295</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>38</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2A8333E-1BD5-E711-9E7D-784F439CD053" controlTypeID="Image" x="0" y="85" w="1100" h="705" zOrder="3">
+      <URL>FA0E20249BB4D6036417E2E9FC5B6469.png</URL>
+    </control>
+    <control controlID="1CD04FBB-1CD5-E711-9E7D-784F439CD053" controlTypeID="Panel" x="59" y="117" w="478" h="625" zOrder="4">
+      <groupChildrenDescriptors>
+        <control controlID="76E44FBB-1CD5-E711-9E7D-784F439CD053" controlTypeID="Border" x="0" y="0" w="478" h="625" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="7A9A307F-3BD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="59" y="117" w="478" h="63" zOrder="5">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ACBF1F43-1DD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="264" y="134" w="75" h="29" zOrder="6">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Lobby</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D61A9F97-3CD5-E711-9E7D-784F439CD053" controlTypeID="Panel" x="565" y="117" w="478" h="625" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="621B9F97-3CD5-E711-9E7D-784F439CD053" controlTypeID="Border" x="0" y="0" w="478" h="625" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="9A8DB79D-3CD5-E711-9E7D-784F439CD053" controlTypeID="Shape" x="565" y="117" w="478" h="63" zOrder="8">
+      <color>4284900966</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="268EB79D-3CD5-E711-9E7D-784F439CD053" controlTypeID="Label" x="770" y="134" w="60" h="29" zOrder="9">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Chat</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F4CCD008-3DD5-E711-9E7D-784F439CD053" controlTypeID="TextInput" x="565" y="714" w="368" h="28" zOrder="10">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Enter+message...</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B895CC1B-3DD5-E711-9E7D-784F439CD053" controlTypeID="Button" x="933" y="714" w="110" h="28" zOrder="11">
+      <color>4278229503</color>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Send...</text>
+      <lineSpacing>17</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="325CED86-3ED5-E711-9E7D-784F439CD053" controlTypeID="Label" x="171" y="594" w="260" h="29" zOrder="12">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="26DF37E1-3BD5-E711-9E7D-784F439CD053" linkType="ltPageLink" isApplyIncludePage="False" title="MatchLobby">
+          <area shape="0" alt="" ID="{C20AD858-24D6-E711-975D-784F439CD053}" coords="(0,0,260,29)"/>
+        </link>
+      </links>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Status%3A+Finding+Match...</text>
+      <textSize>24</textSize>
+      <lineSpacing>28</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="08D00896-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="912" y="18" w="97" h="21" zOrder="13">
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Hello%2C+John</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>21</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8AD00896-19D6-E711-975D-784F439CD053" controlTypeID="Label" x="1019" y="18" w="63" h="21" zOrder="14">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1A3348C0-1DD5-E711-9E7D-784F439CD053" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{C82BE9A2-24D6-E711-975D-784F439CD053}" coords="(0,0,63,21)"/>
+        </link>
+      </links>
+      <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Logout</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>21</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
