@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>BioWars</title>
+    <link href="style.css" rel="stylesheet">
+    <style type="text/css">
+      #menu{
+        height: 60vh;
+      }
+      .background{
+        display: block;
+        margin: auto;
+      }
+      .menuoption{
+        font-size: 6vh;
+        text-align: center;
+        border: 1px solid black;
+        border-radius:25px;
+        background-color: #ffffff;
+        width: 50%;
+      }
+      table{
+        border-spacing: 0 2vh;
+        width: 100%;
+      }
+      td{
+        width: 25%;
+      }
+      .account-text{
+        z-index: 3;
+      }
+      #upper{
+        height: 40vh;
+      }
+      @media screen and (max-width: 500px) and (min-width: 300px) {
+        .menuoption{
+          font-size: 5vh;
+	      width: 70%;
+        }
+	    td{
+	      width: 15%;
+	    }
+	    a:hover{
+          font-weight: bold;
+        }
+      }
+    </style>
+
+</head>
+<body>
+<div class="background-color">
+    <div id="upper">
+        <div class="top-bar" style="text-align:right;"><a href="bugReport.html">&#x2690;</a></div>
+        <img class="background" style="width:30vh;" src="images/Biohazard.svg"/>
+        <!--<div class="background" ><span>BIOWARS</span><br/><span>Version X.X.XX</span></div>-->
+    </div>
+    <div id="menu">
+        <table>
+            <tr>
+                <td></td>
+                <td class="menuoption"><a href="lobby.html">Play as Guest</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="menuoption"><a href="leaderboard.html">Leaderboard</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="menuoption"><a href="settings.html">Settings</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="menuoption"><a href="login.html">Sign In</a></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+</div>
+</body>
+</html>
