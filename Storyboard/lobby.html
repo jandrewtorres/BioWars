@@ -6,7 +6,7 @@
     <link href="style.css" rel="stylesheet">
     <style type="text/css">
       label{
-        font-size: 4vw;
+        font-size: 7vw;
       }
       #chat{
         border: 1px solid black;
@@ -16,15 +16,15 @@
         border: 1px solid black;
       }
       span{
-        font-size:2vw;
+        font-size:4vw;
       }
       #players{
         background-color: #ffffff;
         text-align:center;
-        font-size:5vh;
-        height:70vh;
+        font-size:4vh;
+        height:30vh;
         border: 1px solid black;
-        margin-top: 3vh;
+        margin-top: 1vh;
       }
       #players ul{
         margin: 0 2vw 0 2vw;
@@ -39,19 +39,29 @@
 <body>
   <div style="background-color: #778899; height: 100vh; width: 100vw;">
     <div style="font-size:7vh; text-align: center; padding-top: 2vh;">Match Lobby</div>
-
-      <div style="float:left; width: 45vw; margin-left: 3vw;">
-        <div style="text-align:center; font-size:4vh;">Choose Match Type</div>
-          <div style="text-align:center;margin: 6vh 0 8vh 0;">
+    <div style="width:100%;">
+      <div style="text-align:center;font-size:4vh;">Match Status: <span><a href="game.html">Match Starting...</a></span></div>
+      <div id="players">
+        <ul>
+          <li>John Torres</li>
+          <li>Christina Walden</li>
+          <li>Christina's Mom</li>
+          <li>John's Mom</li>
+        </ul>
+      </div>
+    </div>
+      <div style="width:100%;">
+        <div style="text-align:center; font-size:4vh; margin-top:2vw;" >Choose Match Type</div>
+          <div style="text-align:center;margin: 3vh 0 4vh 0;">
             <label>
-              <input type="radio" name="options" id="unranked" checked="checked"> Unranked
+              <input type="radio" name="options" id="unranked" checked="checked" style="height:3vw;width:3vh;"> Unranked
             </label>
             <label>
-              <input type="radio" name="options" id="ranked" >Ranked
+              <input type="radio" name="options" id="ranked" style="height:3vw;width:3vh;">Ranked
             </label>
             <br/>
             <br/>
-            <button style="font-size:6vh;">Find Match</button>
+            <button style="font-size:3vh;">Find Match</button>
             </div>
             <div id="chat">
               <div id="prevChat">
@@ -65,18 +75,8 @@
               </div>
             </div>
           </div>
-      <div style="float:right; width:45vw; margin-right:3vw;">
-        <div style="text-align:center;font-size:4vh;">Match Status: <span><a href="game.html">Match Starting...</a></span></div>
-        <div id="players">
-          <ul>
-            <li>John Torres</li>
-            <li>Christina Walden</li>
-            <li>Christina's Mom</li>
-            <li>John's Mom</li>
-          </ul>
-        </div>
-      </div>
-    <a href="menu.html">EXIT</a>
+
+    <div style="text-align:center;font-size:5vw;"><a href="menu.html">EXIT</a></div>
   </div>
 </body>
 </html>

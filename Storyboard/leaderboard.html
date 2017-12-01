@@ -5,19 +5,20 @@
     <title>BioWars</title>
     <link href="style.css" rel="stylesheet">
     <style type="text/css">
-	td{
-	  font-size: 5vh;
-	  text-align: center;
-        }
+
 	.displayTable{
-          border: 1px solid black;
+
           border-radius: 5px;
           border-spacing: 0 2vh;
-	  width: 45vw;
+	      width: 100%;
         }
-	.displayTable td{
-	  background-color: gray;
+    .displayTable tr{
+      border: 1vw solid black;
+    }
+	.displayTable tr td{
+	  background-color: #ffffff;
 	  font-size: 4vh;
+	  padding: 1vw 2vw 0 0;
         }
   .dashboard {
     display: flex;
@@ -38,36 +39,38 @@
     background-color: grey;
     margin-bottom: 1vh;
   }
+  .caption{
+    font-size: 10vw;
+    text-align: center;
+    text-shadow: 0px 0px 1vw #ffffff;
+
+  }
   @media screen and (max-width: 500px) and (min-width: 300px){
     .dashboard{
       flex-direction: column;
     }
   }
+
     </style>
 </head>
 <body>
   <div>
     <div class="background-color">
       <div class="top-bar" style="text-align:left;"><a href="menu.html">&#8617;</a></div>
-      <div class="dashboard">
-          <div class="dashboard-panel">
-            <span class="dashboard-title">Leaderboard</span>
-            <span class="number">No 1</span>
-            <span class="number">No 2</span>
-            <span class="number">No 3</span>
-            <span class="number">No 4</span>
-            <span class="number">No 5</span>
-            <span class="number">No 6</span>
-            <span class="number">No 7</span>
-            <span class="number">No 8</span>
-            <span class="number">No 9</span>
-            <span class="number">No 10</span>
-          </div>
-          <div class="dashboard-panel">
-            <span class="dashboard-title">My Stats</span>
-            <span class="number">No 1</span>
-            <span class="number">No 2</span>
-          </div>
+      <div>
+          <div class="caption">Leaderboard</div>
+          <table class="displayTable">
+            <tr><td>Position</td><td>Username</td><td>Rank</td><td>W/L</td></tr>
+            <tr><td>1</td><td>Mickey Mouse</td><td>100</td><td>100:0</td></tr>
+            <tr><td>2</td><td>Donald Duck</td><td>100</td><td>100:0</td></tr>
+            <tr><td>3</td><td>Donald Trump</td><td>100</td><td>100:0</td></tr>
+            <tr><td>4</td><td>Hilary Clinton</td><td>100</td><td>100:0</td></tr>
+          </table>
+          <div class="caption">My Stats</div>
+          <table class="displayTable">
+              <tr><td>Position</td><td>Username</td><td>Rank</td><td>W/L</td></tr>
+              <tr><td>42</td><td>JTorres</td><td>100</td><td>75:0</td></tr>
+          </table>
       </div>
     </div>
   </div>
